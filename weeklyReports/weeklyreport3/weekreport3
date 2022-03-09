@@ -1,0 +1,60 @@
+# Summary of presentations
+# Exploring Desktop Environments
+a. bulleted list of different desktop environments
+* GNOME
+* MATE
+* KDE
+* BUDGIE 
+* XFCE
+* LXDE
+b. Definitions for the following terms: GUI, DE
+ GUI: A graphical user interface is a set of programs that allows a user to interact with the computer system via icons, windows, and various other visual elements.
+DE: A desktop environment is an implementation of the desktop metaphor made of a bundle of programs running on top of a computer operating system, which shares a common GUI, sometimes described as a graphical shell.
+c.  Bulleted list of the common elements of a desktop environment
+* Desktop Settings
+* Display Manager
+* File Manager
+* Icons
+* Favorites bar
+* Launcher
+
+## The bash Shell
+a. What is a shell?
+ The GNU bash shell is a program that provides interactive access to the Linux system.
+b. List different shells
+* Tesh Shell
+* Csh Shell
+* Ksh Shell
+* Zsh Shell
+* Fish Shell
+c. List some bash shortcuts (no more than 10 and no less than 5)
+* Ctrl + A
+* Ctr| + E
+* Ctrl + K
+* Ctrl + U
+* Ctrl + W
+* Ctr| + Y
+d. List basic commands and their usage
+* date - displays the current time and date
+* cal - displays a calendar of the current month
+* df - displays the current amount of free space on our disk drives
+* free - displays the amount of free memory
+* uname - displays information about your system
+* clear - clears the screen
+
+## Managing Software
+a. Command for updating ubuntu
+* sudo apt update; 
+b. Command for installing software
+* sudo apt install package name
+c. Command for removing software
+* sudo apt remove package name
+d. Command for searching for software
+* apt search "package name"
+e. Definition of the following terms:
+a. Package - *archives that contain binaries of software, configuration files, and
+information about dependencies. (In Windows, these are commonly .exe files)*
+b. Library - *reusable code that can be used by more than one function or program.*
+c. Repository - *a large collection of software available for download.*
+# f. Include the screenshot of how to update ubuntu with its explanation 
+![](weeklyreport3.png)
